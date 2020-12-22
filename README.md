@@ -1,7 +1,7 @@
 # 19-Employee Directory
 ___
 ## Objective
-Create a employee directory with React, and break up the application's UI into components; manage component state; and respond to user events.
+Create an employee directory with React, and break up the application's UI into components; manage component state; and respond to user events.
 ___
 ## Table of Contents
 * [User_Story](#user_story)
