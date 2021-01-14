@@ -21,8 +21,8 @@ ____
 _____
 ## Usage
 This app shows how an employee or manager could benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by tenure, and specific personal strengths or abilities.  A group of random Avengers (a fictional team of superheroes created by Marvel comics) was selected to build this app.  The employee or manager has the ability to:   
-- Sort the Avengers directory per the length of time since each character was created by Marvel comics (from longest tenure to shortest tenure, or vice versa)
 - Filter the Avengers directory per their individual Power Unit (Energy, Fly, Senses, Size, Strength, or Weapons)   
+- Sort the Avengers directory per the length of time since each character was created by Marvel comics (from longest tenure to shortest tenure, or vice versa)   
 - The Directory can be re-set to the original display by sorting per **Default**, and Filter per **All**, and re-freshing the page    
 _____
 ## Contributing
