@@ -1,0 +1,135 @@
+[
+    {
+      "id": "1",
+      "pic": "/images/ant_man.png",
+      "name": "Ant Man",
+      "power": "Size",
+      "begin": "1979",
+      "email": "antman@email.com",
+      "phone": "800-123-0001"
+    },
+    {
+      "id": "2",
+      "pic": "/images/black_panther.png",
+      "name": "Black Panther",
+      "power": "Strength",
+      "begin": "1968",
+      "email": "blkpanther@email.com",
+      "phone": "800-123-0002"
+    },
+    {
+      "id": "3",
+      "pic": "/images/black_widow.png",
+      "name": "Black Widow",
+      "power": "Weapons",
+      "begin": "1973",
+      "email": "blkwidow@email.com",
+      "phone": "800-123-0003"
+    },
+    {
+      "id": "4",
+      "pic": "/images/captain_america.png",
+      "name": "Captain America",
+      "power": "Strength",
+      "begin": "1998",
+      "email": "captamerica@email.com",
+      "phone": "800-123-0004"
+    },
+    {
+      "id": "5",
+      "pic": "/images/captain_marvel.png",
+      "name": "Captain Marvel",
+      "power": "Fly",
+      "begin": "1978",
+      "email": "captmarvel@email.com",
+      "phone": "800-123-0005"
+    }, {
+      "id": "6",
+      "pic": "/images/doctor_strange.png",
+      "name": "Doctor Strange",
+      "power": "Energy",
+      "begin": "1963",
+      "email": "drstrange@email.com",
+      "phone": "800-123-0006"
+    }, {
+      "id": "7",
+      "pic": "/images/falcon.png",
+      "name": "Falcon",
+      "power": "Fly",
+      "begin": "1979",
+      "email": "falcon@email.com",
+      "phone": "800-123-0007"
+    }, {
+      "id": "8",
+      "pic": "/images/hulk.png",
+      "name": "Hulk",
+      "power": "Strength",
+      "begin": "1964",
+      "email": "hulk@email.com",
+      "phone": "800-123-0008"
+    }, {
+      "id": "9",
+      "pic": "/images/iron_man.png",
+      "name": "Iron Man",
+      "power": "Weapons",
+      "begin": "1963",
+      "email": "ironman@email.com",
+      "phone": "800-123-0009"
+    }, {
+      "id": "10",
+      "pic": "/images/rocket_racoon.png",
+      "name": "Rocket Racoon",
+      "power": "Senses",
+      "begin": "1982",
+      "email": "rktracoon@email.com",
+      "phone": "800-123-0010"
+    }, {
+      "id": "11",
+      "pic": "/images/scarlet_witch.png",
+      "name": "Scarlet Witch",
+      "power": "Energy",
+      "begin": "1965",
+      "email": "scarwitch@email.com",
+      "phone": "800-123-0011"
+    }, {
+      "id": "12",
+      "pic": "/images/spider_man.png",
+      "name": "Spider Man",
+      "power": "Senses",
+      "begin": "1969",
+      "email": "spiderman@email.com",
+      "phone": "800-123-0012"
+    }, {
+      "id": "13",
+      "pic": "/images/star_lord.png",
+      "name": "Star Lord",
+      "power": "Weapons",
+      "begin": "2018",
+      "email": "starlord@email.com",
+      "phone": "800-123-0013"
+    }, {
+      "id": "14",
+      "pic": "/images/thor.png",
+      "name": "Thor",
+      "power": "Strength",
+      "begin": "1963",
+      "email": "thor@email.com",
+      "phone": "800-123-0014"
+    }, {
+      "id": "15",
+      "pic": "/images/vision.png",
+      "name": "Vision",
+      "power": "Senses",
+      "begin": "1968",
+      "email": "vision@email.com",
+      "phone": "800-123-0015"
+    }, {
+      "id": "16",
+      "pic": "/images/hawkeye.png",
+      "name": "Hawkeye",
+      "power": "Weapons",
+      "begin": "1964",
+      "email": "hawkeye@email.com",
+      "phone": "800-123-0016"
+    }
+  ]

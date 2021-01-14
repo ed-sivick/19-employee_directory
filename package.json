@@ -1,7 +1,12 @@
 {
   "name": "employee_dir-app",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ed-sivick/19-employee_directory"
+  },
+  "author": "ed-sivick",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
