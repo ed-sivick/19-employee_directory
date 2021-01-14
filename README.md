@@ -53,7 +53,7 @@ Heroku link: (https://avenger-employee-directory.herokuapp.com/)
   <img src="public/images/employee-all1.png" width="800" title="Image of Avenger Employee Directory" alt="Image of Avenger Employee Directory">
   </p><br>
   
-  <p><strong>Image of Avenger Employee Directory Filtered by Strength Power Unit</strong></p>
+  <p><strong>Image of Avenger Employee Directory Filtered by 'Strength' Power Unit</strong></p>
 <p align="left">
   <img src="public/images/employee-strength_filter.png" width="800" title="Image of Avenger Employee Directory Filtered by Strength Power Unit" alt="Image of Avenger Employee Directory Filtered by Strength Power Unit">
   </p><br>
